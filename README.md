@@ -5,15 +5,11 @@ Project Description:
 
 This project was made using:
 
-  1.BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip 
-  
-  2.Arduino Mega  
-  
-  3.5V Power Supply
-  
-  4.Bread Board
-  
-  5.Jumper Wires
+  1. BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip  
+  2. Arduino Mega  
+  3. 5V Power Supply
+  4. Bread Board
+  5. Jumper Wires
   
   
 Project Timeline:
