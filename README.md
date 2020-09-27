@@ -6,10 +6,15 @@ way to decorate my mobile DJ set up for future gigs.
 This project was made using:
 
   BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip
+  
   Arduino Mega
+  
   5V Power Supply
+  
   Bread Board
+  
   Jumper Wires
+  
   
 Project Timeline:
 
@@ -17,10 +22,14 @@ Project Timeline:
   2. Reading and figuring out the FASTLed library
   3. Creating Custom Effects using a single LED strip through Arduino
   4. Cutting LED stip into 10x30 strips
+  
     a. Soldering Jumper Wires to each indivual strip
+    
     b. Connect each strip to an Arduino pin
   5. Realized using a computer for the Arduino and LED strips as a power supply is not sufficient enough
+  
     a. Connected an external 5V power supply to a breadboard
+    
     b. Arduino and LED strips are now powered seperately
   6. Creating Custom 2D LED panel effects
 
