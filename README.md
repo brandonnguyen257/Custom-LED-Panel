@@ -1,19 +1,15 @@
 Project Description:
 
-      This project was inspired through a hobby of mine, DJing. With lighting equipment being very expensive, I wanted to find an inexpenseive
-      way to decorate my mobile DJ set up for future gigs.
+   This project was inspired through a hobby of mine, DJing. With lighting equipment being very expensive, I wanted to find an inexpenseive
+   way to decorate my mobile DJ set up for future gigs.
 
 This project was made using:
 
-  BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip
-  
-  Arduino Mega
-  
-  5V Power Supply
-  
-  Bread Board
-  
-  Jumper Wires
+  1.BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip 
+  2.Arduino Mega  
+  3.5V Power Supply
+  4.Bread Board
+  5.Jumper Wires
   
   
 Project Timeline:
