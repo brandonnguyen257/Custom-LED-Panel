@@ -1,4 +1,7 @@
 Iterate Through Color Wheel
 
-![](ScrollColorWheel.gif)
+![](demo/ScrollColorWheel.gif)
 
+Moving Animation
+
+![](demo/MovingAnimation.gif)
