@@ -6,18 +6,17 @@ Iterate Through Color Wheel
 
 ![](demo/ScrollColorWheel.gif)
 
-Moving Eye
+Pulse Effect
 
-![](demo/MovingEye.gif)
-
+![](demo/PulseEffect.gif)
 
 Moving Wave
 
 ![](demo/MovingWave.gif)
 
-Pulse Effect
+Moving Eye
 
-![](demo/PulseEffect.gif)
+![](demo/MovingEye.gif)
 
 Strobe Preset
 
