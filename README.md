@@ -1,7 +1,7 @@
 Project Description:
 
-This project was inspired through a hobby of mine, DJing. With lighting equipment being very expensive, I wanted to find an inexpenseive
-way to decorate my mobile DJ set up for future gigs.
+      This project was inspired through a hobby of mine, DJing. With lighting equipment being very expensive, I wanted to find an inexpenseive
+      way to decorate my mobile DJ set up for future gigs.
 
 This project was made using:
 
