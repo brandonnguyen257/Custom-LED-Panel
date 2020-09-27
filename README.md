@@ -1,11 +1,10 @@
+
+LED System
+![](demo/LEDSystem.jpg)
+
 Iterate Through Color Wheel
 
 ![](demo/ScrollColorWheel.gif)
-
-Moving Animation
-
-![](demo/MovingAnimation.gif)
-
 
 Moving Eye
 
@@ -16,7 +15,6 @@ Moving Wave
 
 ![](demo/MovingWave.gif)
 
-
 Pulse Effect
 
 ![](demo/PulseEffect.gif)
@@ -24,3 +22,7 @@ Pulse Effect
 Strobe Preset
 
 ![](demo/StrobePreset.gif)
+
+Personal Logo Moving Animation
+
+![](demo/MovingAnimation.gif)
