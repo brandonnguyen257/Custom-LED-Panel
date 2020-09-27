@@ -5,7 +5,7 @@ way to decorate my mobile DJ set up for future gigs.
 
 This project was made using:
 
-BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip
+  BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip
   Arduino Mega
   5V Power Supply
   Bread Board
