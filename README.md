@@ -23,14 +23,14 @@ Project Timeline:
   3. Creating Custom Effects using a single LED strip through Arduino
   4. Cutting LED stip into 10x30 strips
   
-    a. Soldering Jumper Wires to each indivual strip
+    4a. Soldering Jumper Wires to each indivual strip
     
-    b. Connect each strip to an Arduino pin
+    4b. Connect each strip to an Arduino pin
   5. Realized using a computer for the Arduino and LED strips as a power supply is not sufficient enough
   
-    a. Connected an external 5V power supply to a breadboard
+    5a. Connected an external 5V power supply to a breadboard
     
-    b. Arduino and LED strips are now powered seperately
+    5b. Arduino and LED strips are now powered seperately
   6. Creating Custom 2D LED panel effects
 
 Future Features:
