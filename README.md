@@ -1,9 +1,9 @@
-Project Description:
+<b>Project Description:</b>
 
    This project was inspired through a hobby of mine, DJing. With lighting equipment being very expensive, I wanted to find an inexpenseive
    way to decorate my mobile DJ set up for future gigs.
 
-This project was made using:
+<b>Project Materials:</b>
 
   1. BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip  
   2. Arduino Mega  
@@ -12,7 +12,7 @@ This project was made using:
   5. Jumper Wires
   
   
-Project Timeline:
+<b>Project Timeline:</b>
 
   1. Connecting the single LED strip to power
   2. Reading and figuring out the FASTLed library
@@ -31,14 +31,15 @@ Project Timeline:
       
   6. Creating Custom 2D LED panel effects
 
-Future Features:
+<b>Future Features:</b>
 In the future, I want to be able to control the the LED panel through a MIDI keyboard. This would utilize
 a seperate Ardunio to take inputs from the MIDI and outputting that data to the LED panel's Arduino
 
 LED Panel System
 ![](demo/LEDSystem.jpg)
 
-              ---Below are GIFS of some of the implemented effects---
+
+<b>Below are GIFS of some of the implemented effects</b>
 
 Iterate Through Color Wheel
 
