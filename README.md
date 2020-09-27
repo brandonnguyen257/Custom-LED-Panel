@@ -1,15 +1,18 @@
 Project Description:
+
 This project was inspired through a hobby of mine, DJing. With lighting equipment being very expensive, I wanted to find an inexpenseive
 way to decorate my mobile DJ set up for future gigs.
 
 This project was made using:
-  BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip
+
+BTF-LIGHTING WS2812B RGB(300 pixel) LED Strip
   Arduino Mega
   5V Power Supply
   Bread Board
   Jumper Wires
   
 Project Timeline:
+
   1. Connecting the single LED strip to power
   2. Reading and figuring out the FASTLed library
   3. Creating Custom Effects using a single LED strip through Arduino
