@@ -67,7 +67,7 @@ to fit inside a diffuser for a more sleek look.
 
 <b>Porter Robinson Logo</b>
 
-![](demo/PorterLogo.gif)
+![](demo/PorterLogo.jpg)
 
 
 <b>Personal Logo Moving Animation</b>
