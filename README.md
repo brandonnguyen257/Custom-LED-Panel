@@ -39,32 +39,37 @@ a seperate Ardunio to take inputs from the MIDI and outputting that data to the 
 In addition, I want to improve the wire managment to be more minimal and secure. This will allow the system
 to fit inside a diffuser for a more sleek look.
 
-LED Panel System
+<b>LED Panel System</b>
 ![](demo/LEDSystem.jpg)
 
 
 <b>Below are GIFS of some of the implemented effects</b>
 
-Iterate Through Color Wheel
+<b>Iterate Through Color Wheel</b>
 
 ![](demo/ScrollColorWheel.gif)
 
-Pulse Effect
+<b>Pulse Effect</b>
 
 ![](demo/PulseEffect.gif)
 
-Moving Wave
+<b>Moving Wave</b>
 
 ![](demo/MovingWave.gif)
 
-Moving Eye
+<b>Moving Eye</b>
 
 ![](demo/MovingEye.gif)
 
-Strobe Preset
+<b>Strobe Preset</b>
 
 ![](demo/StrobePreset.gif)
 
-Personal Logo Moving Animation
+<b>Porter Robinson Logo</b>
+
+![](demo/PorterLogo.gif)
+
+
+<b>Personal Logo Moving Animation</b>
 
 ![](demo/MovingAnimation.gif)
