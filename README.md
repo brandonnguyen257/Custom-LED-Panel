@@ -1,9 +1,8 @@
 <b>Project Inspiration:</b>
 
-   This project was inspired through my DJing hobby. To add more value for future gigs, I wanted to purchase
-   LED lights to decorate my DJ set up. However there were many options that were either too expensive or
-   doesn't have custom effects. I wanted to build my own LED panel so that I can create my own custom effects
-   at half the cost of the other options out there.
+   This project was inspired through my DJing hobby. I wanted to purchase LED lights to decorate my DJ set up, but 
+   there were only options that were too expensive or didn't include effects. I wanted to build my own LED panel 
+   so that I can create my own custom effects at half the cost of the other options out there.
 
 <b>Project Materials:</b>
 
