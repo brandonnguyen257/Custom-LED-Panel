@@ -1,7 +1,9 @@
-<b>Project Description:</b>
+<b>Project Inspiration:</b>
 
-   This project was inspired through a hobby of mine, DJing. With lighting equipment being very expensive, I wanted to find an inexpenseive
-   way to decorate my mobile DJ set up for future gigs.
+   This project was inspired through my DJing hobby. To add more value for future gigs, I wanted to purchase
+   LED lights to decorate my DJ set up. However there were many options that were either too expensive or
+   doesn't have custom effects. I wanted to build my own LED panel so that I can create my own custom effects
+   at half the cost of the other options out there.
 
 <b>Project Materials:</b>
 
@@ -10,7 +12,6 @@
   3. 5V Power Supply
   4. Bread Board
   5. Jumper Wires
-  
   
 <b>Project Timeline:</b>
 
@@ -32,8 +33,12 @@
   6. Creating Custom 2D LED panel effects
 
 <b>Future Features:</b>
-In the future, I want to be able to control the the LED panel through a MIDI keyboard. This would utilize
-a seperate Ardunio to take inputs from the MIDI and outputting that data to the LED panel's Arduino
+
+For future features, I want to be able to control the the LED panel through a MIDI keyboard. This would utilize
+a seperate Ardunio to take inputs from the MIDI and outputting that data to the LED panel's Arduino.
+
+In addition, I want to improve the wire managment to be more minimal and secure. This will allow the system
+to fit inside a diffuser for a more sleek look.
 
 LED Panel System
 ![](demo/LEDSystem.jpg)
